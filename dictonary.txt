@@ -1,10 +1,32 @@
-Arbån : ten
-Durbón : four
-Jålán : seven
-Jurghan : six
-Nikán : one
-Qeyór : two
-Qurbún : three
-Sålån : eight
-Tåbun : five
-Tåsån : nine
+arbån : ten
+durbón : four
+jålán : seven
+jurghan : six
+nikán : one
+qeyór : two
+qurbún : three
+sålån : eight
+tåbun : five
+tåsån : nine
+khùb : good
+ida : eat
+kejà : when
+kàrà : black
+khwàr : sister
+mànî : my
+tànî : your
+nira : name
+bàbà : father
+bi : i
+ci : you
+imah : what
+turuksan : brother
+chighàn : rice
+uchkodar : yesterday
+uchkàn : last night
+tànînan-tar : do you know
+mànînan-tar : do i know
+kîmat : price
+morin : horse
+kedù : how many
+kedù : how much

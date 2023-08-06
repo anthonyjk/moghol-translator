@@ -30,10 +30,30 @@ def sentence_shell():
                 break
                 
         if added == False:
-            shell.append(word)
+            shell.append(two_to_three(word, moheng))
         
     return shell
 
+def two_to_three(word, moheng):
+    if english.index(word) + 1 < len(english):
+        words = word + " " + english[english.index(word)+1]
+        for mh in moheng:
+            line = mh.split(" : ")
+            if line[1] == words.lower():
+                del english[english.index(word)+1]
+                return line[0]
+    if english.index(word) + 2 < len(english):
+        words += " " + english[english.index(word)+2]
+        for mh in moheng:
+            line = mh.split(" : ")
+            if line[1] == words.lower():
+                del english[english.index(word)+1]
+                del english[english.index(word)+1]
+                return line[0]
+        
+    return word
+    
+    
 def grammatize(sentence):
     #ToDo; after more words are added
     return sentence
