@@ -1,11 +1,4 @@
-### Mogholi to English Translator
+### Mogholi to English Dictonary & Translator
 
-The accuracy of this project cannot be guaranteed, you may view the sources used in the "Sources" folder.
-
-____________________________________
-
-### Mogholi in Englisch Übersetzter
-
- die Genauigkeit von diesem Projekt kann nicht Garantiert sein, sie können die Quellen in dem "Sources" ordner sehen.
-
-Es kann ein Mogholi in Deutsch Update in dem Zukunft geben.
+Disclaimer: Translation / Dictonary accuracy is not guaranteed, please use a healthy amount of skepticism when dealing with the provided translations.
+This project is a linguistic & software one, for now sources are provided in a "Sources" folder, but eventually they may be compiled in a seperate location in which case this ReadMe will show where.
